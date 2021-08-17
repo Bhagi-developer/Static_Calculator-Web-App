@@ -5,7 +5,7 @@ padding: 0;
 
 body{
 /* background-color: #000; */
-background-image: url('/IMGS/bg.jpg');
+background-image: url('IMGS/bg.jpg');
 background-size: cover;
 }
 
